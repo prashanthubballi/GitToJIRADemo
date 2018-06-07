@@ -1,1 +1,2 @@
 # GitToJIRADemo
+resolved 
